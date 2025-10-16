@@ -2,6 +2,7 @@
 
 |Model|Shop|Cur($)|MSRP($)|SSD|Other|
 |---|---|---|---|---|---|
+|Aifut AI Mini PC|[Amazon](https://www.amazon.com/AIFUT-LPDDR5X-Performance-Training-Rendering/dp/B0FJQDRZFZ)|$2009|$2009|2tb||
 |Asus ROG Flow Z13 (2025)|[Asus](https://shop.asus.com/us/90nr0jy1-m00670-rog-flow-z13-2025.html)|$2799|$2799|1tb||
 |Beelink GTR9|[Bee-link.com](https://www.bee-link.com/products/beelink-gtr9-pro-amd-ryzen-ai-max-395)|$1970|$2399|2tb||
 |Bosgame M5|[Bosgame](https://www.bosgamepc.com/products/bosgame-m5-ai-mini-desktop-ryzen-ai-max-395?sku=18070578044354691493644095)|$1699|$2699|2tb||
