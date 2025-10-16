@@ -3,7 +3,7 @@
 |Model|Shop|Cur($)|MSRP($)|SSD|Other|
 |---|---|---|---|---|---|
 |Aifut AI Mini PC|[Amazon](https://www.amazon.com/AIFUT-LPDDR5X-Performance-Training-Rendering/dp/B0FJQDRZFZ)|$2009|$2009|2tb||
-|Asus ROG Flow Z13 (2025)|[Asus](https://shop.asus.com/us/90nr0jy1-m00670-rog-flow-z13-2025.html)|$2799|$2799|1tb||
+|Asus ROG Flow Z13 (2025)|[Asus](https://shop.asus.com/us/90nr0jy1-m00670-rog-flow-z13-2025.html) \| [Newegg](https://www.newegg.com/asus-rog-flow-13-4-amd-radeon-8060s-graphics-3-0ghz-wqxga-128gb-memory-1-tb-ssd/p/N82E16834236625) |$2799|$2799|1tb||
 |Beelink GTR9| [Amazon](https://www.amazon.com/Beelink-GTR9-Crucial-Computer-DeepSeek/dp/B0FPQQYWQ1) \| [Bee-link.com](https://www.bee-link.com/products/beelink-gtr9-pro-amd-ryzen-ai-max-395)|$1970|$2399|2tb||
 |Bosgame M5|[Bosgame](https://www.bosgamepc.com/products/bosgame-m5-ai-mini-desktop-ryzen-ai-max-395?sku=18070578044354691493644095)|$1699|$2699|2tb||
 |Corsair AI Workstation 300|[Corsair](https://www.corsair.com/us/en/p/gaming-computers/cs-9080002-na/corsair-ai-workstation-300-amd-ryzen-ai-max-395-processor-amd-radeon-8060s-igpu-up-to-96gb-vram-128gb-lpddr5x-memory-1tb-m2-ssd-win11-home-cs-9080002-na)|$1999|$1999|1tb||
